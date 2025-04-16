@@ -1,0 +1,12 @@
+c Arquivo gerado automaticamente
+c Este grafo tem 10 vértices
+p EDGE 10 9
+e 2 7
+e 3 5
+e 3 6
+e 3 7
+e 3 9
+e 4 5
+e 5 9
+e 6 10
+e 8 10
